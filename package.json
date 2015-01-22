@@ -1,6 +1,6 @@
 {
   "name": "node-alfupperbet",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "List of uppercase characters in the alphabet",
   "license": "MIT",
   "repository": "max/node-alfupperbet",
