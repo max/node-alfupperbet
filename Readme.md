@@ -3,7 +3,7 @@
 I've been told that to Node right one must modularize. This module returns an
 array of the uppercased alphabet.
 
-Requires [alfalfabet](https://github.com/max/alfalfabet).
+Requires [alfalfabet](https://github.com/max/node-alfalfabet).
 
 ## Install
 
