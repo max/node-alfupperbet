@@ -1,4 +1,4 @@
-# node-alfalfabet
+# node-alfupperbet
 
 I've been told that to Node right one must modularize. This module returns an
 array of the uppercased alphabet.
