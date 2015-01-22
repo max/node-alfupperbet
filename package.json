@@ -1,0 +1,38 @@
+{
+  "name": "node-alfupperbet",
+  "version": "1.0.0",
+  "description": "List of uppercase characters in the alphabet",
+  "license": "MIT",
+  "repository": "max/node-alfupperbet",
+  "author": {
+    "name": "Max Schoening",
+    "email": "mail@maximilian.io",
+    "url": "maximilian.io"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "node",
+    "alphabet",
+    "alfalfabet",
+    "moduleitis",
+    "list",
+    "uppercase",
+    "array",
+    "#blessed"
+  ],
+  "devDependencies": {
+    "ava": "0.0.4"
+  },
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "node-alfalfabet": "^1.0.0"
+  }
+}
